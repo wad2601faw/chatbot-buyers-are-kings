@@ -1,0 +1,25 @@
+# =============================
+# CONFIG SENSITIF
+# =============================
+config/koneksi.php
+config/auth.php
+
+# =============================
+# DATABASE MYSQL RUNTIME
+# (JANGAN DI-UPLOAD KE GITHUB)
+# =============================
+buyers_are_kings/
+*.ibd
+*.frm
+*.opt
+
+# =============================
+# LOG & CACHE
+# =============================
+*.log
+
+# =============================
+# OS FILES
+# =============================
+.DS_Store
+Thumbs.db
